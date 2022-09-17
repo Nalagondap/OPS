@@ -1,1 +1,0 @@
-# SSL certificate expiry check
