@@ -4,8 +4,8 @@ CERTS_SCRIPT=certs.sh
 DOMAIN_FILE=ssldomains
 SUBJECT=`date +%D`
 #CHANNEL="mukesha2@cisco.com"
-CHANNEL="ys-ops-team@cisco.com"
-SENDER="iotsp-control-alerts@external.cisco.com"
+CHANNEL="npavanreddy267@gmail.com"
+SENDER="npavanreddy267@gmail.com"
 CONTENT="op.html"
 
 red='\033[0;31m'
